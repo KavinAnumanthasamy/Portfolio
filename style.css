@@ -28,7 +28,7 @@ header::before {
   content: "";
   position: absolute;
   inset: 0;
-  background: url("ust.office.jpg") center/cover no-repeat;
+  background: url("assest/ust.office.jpg") center/cover no-repeat;
   filter: blur(15px);
   transform: scale(1.1);
   z-index: -1;
